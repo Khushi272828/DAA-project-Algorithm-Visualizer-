@@ -1,0 +1,1 @@
+# DAA-project-Algorithm-Visualizer-The design and implementation of the “Algorithm Visualizer” are centered around providing a seamless, interactive, and educational user experience. Emphasis was placed on clarity of presentation, ease of use, and the ability to visually convey complex algorithmic logic through animation and interactivity. 
